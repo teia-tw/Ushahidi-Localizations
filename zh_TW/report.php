@@ -126,10 +126,10 @@ $lang = array(
 		'length' => '郵件地址長度須在4至64個字符之間',
 	) ,
 	'person_first' => array(
-		'length' => '名字長度須在3到100個字符之間',
+		'length' => '名字長度須在1到100個字符之間',
 	) ,
 	'person_last' => array(
-		'length' => '姓長度須在3到100個字符之間.',
+		'length' => '姓長度須在1到100個字符之間.',
 	) ,
 	'to_date' => array(
 		'date_mmddyyyy' => '結束日期格式錯誤',
